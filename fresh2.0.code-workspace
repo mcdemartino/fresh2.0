@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "../Downloads/yeseyez/eyezyes"
+		},
+		{
+			"path": "../Downloads/yeseyez"
+		},
+		{
+			"path": "backc"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "backc",
+        "liveServer.settings.port": 5501
+    }
+}
